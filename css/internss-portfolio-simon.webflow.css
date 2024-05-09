@@ -1049,6 +1049,10 @@ figcaption {
   background-image: url('../images/ctf-prv-2.jpg');
 }
 
+.project-image-right.tennis-3 {
+  background-image: url('../images/tennis-simon.jpg');
+}
+
 .flex-right {
   justify-content: flex-end;
   align-items: center;
